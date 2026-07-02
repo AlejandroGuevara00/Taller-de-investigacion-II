@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883258707920",
+    "project_id": "alerta-cusco",
+    "storage_bucket": "alerta-cusco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883258707920:android:48409c55913fdff22273d5",
+        "android_client_info": {
+          "package_name": "com.prototipo.alertacusco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6S75Z0GumU40M1VorQByQ5tJv-RJTLCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
